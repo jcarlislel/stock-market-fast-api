@@ -1,1 +1,1 @@
-# stock-market-fast-api
+# stock-market-springboot-api
